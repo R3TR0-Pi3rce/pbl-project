@@ -1,1 +1,3 @@
-# pbl-project
+This is a Django based app E-voting app developed for college students to cast their votes anytime and from anywhere using browsers. The aim of this web app is to provide convenience to voters as well as officials who monitor the voting process. The app gives election results accurately and instantaneously.
+
+The app has an easy to use interface “Login Screen” for voters where they can login with their College ids. Each voter’s data is stored in database containing their essential information such as College email account id and a voting status which stores whether voter has voted or not. After login, voters have access to voting interface “Voting Screen” that allows them to select candidates for the given positions and submit their voting data securely. Once a voter submits his/her response, then re-submission will not be permissible
